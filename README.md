@@ -1,3 +1,7 @@
+## MIT License
+
+Copyright (c) 2021 Justin Kim
+
 ## this project
 
 1. created a Typescript template create-react-app project by running <br />
